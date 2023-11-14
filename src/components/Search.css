@@ -1,0 +1,10 @@
+.search-moodle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+}
+
+.input-search {
+    width: 100%;
+}
